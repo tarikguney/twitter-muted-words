@@ -1,0 +1,30 @@
+# Şahıslar
+
+- Binali
+- Ekrem İmamoğlu
+- Kılıçdaroğlu
+- Tayyip Erdoğan
+- Mansur Yavaş
+- Akşener
+- Perinçek
+- Davutoğlu
+- Devlet Bahçeli
+- Ali Babacan
+- Karamollaoğlu
+- Dilipak
+- Cübbeli
+- Fethullah
+- Selahattin Demirtaş
+- Yıldız Tilbe
+- Tatlıses
+- Cem Küçük
+- Sinan Oğan
+- Destici
+- Yarkadaş
+- Eren Erdem
+- Öztrak
+- Ali Cabbar
+- Süleyman Soylu
+- Adnan Oktar
+- Gökçek
+- Selin Sayek
