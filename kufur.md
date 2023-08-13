@@ -1,71 +1,69 @@
-belanı versin
-kefere
-sıçtı
-sıçtın
-sıçtılar
-amına
-sikeyim
-sikim
-siksinler
-sikerler
-sikine
-sikime
-amcık
-amk
-amq
-yarrak
-pezevenk
-sürtük
-orospu
-tüküreyim
-gerizekalı
-ahmak
-şerefsiz
-şerefsizler
-şerefsizsin
-şerefsizdir
-hainler
-haini
-hainleri
-hainlerden
-hainlerinden
-hainlerini
-yandaş
-yandaşlar
-yandaşları
-yandaşların
-dangalak
-dangalaklar
-dangalaklardan
-dangalakları
-dangalaklara
-türko
-kürdo
-götüne
-göte
-göt
-zırva
-dermişim
-anana
-ananı
-anasını
-bacını
-bacısını
-soysuz
-manit
-manita
-manitanın
-manitin
-manitaya
-manitayla
-manite
-manitle
-kocişim
-kociş
-kocişe
-kocişle
-kocişimle
-sizce ben
-görümcem
-eltim
-aşko
+# Küfür ve Saçmalık +18
+
+- belanı versin
+- kefere
+- sıçtı
+- sıçtın
+- sıçtılar
+- amına
+- sikeyim
+- sikim
+- siksinler
+- sikerler
+- sikine
+- sikime
+- amcık
+- amk
+- amq
+- yarrak
+- pezevenk
+- sürtük
+- orospu
+- tüküreyim
+- gerizekalı
+- ahmak
+- şerefsiz
+- şerefsizler
+- şerefsizsin
+- şerefsizdir
+- hainler
+- haini
+- hainleri
+- hainlerden
+- hainlerinden
+- hainlerini
+- yandaş
+- yandaşlar
+- yandaşları
+- yandaşların
+- dangalak
+- dangalaklar
+- dangalaklardan
+- dangalakları
+- dangalaklara
+- türko
+- kürdo
+- götüne
+- göte
+- göt
+- zırva
+- dermişim
+- anana
+- ananı
+- anasını
+- bacını
+- bacısını
+- soysuz
+- manit
+- manita
+- manitanın
+- manitin
+- manitaya
+- manitayla
+- manite
+- manitle
+- kocişim
+- kociş
+- kocişe
+- kocişle
+- kocişimle
