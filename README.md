@@ -6,5 +6,13 @@ Twitter (yeni adı ile X.com) adresinde size gösterilen içeriğin kalitesini, 
 
 Kelimeleri girebileceğiniz adres: https://twitter.com/settings/muted_keywords
 
+## Kategoriler
+
+- 👕 [Şahıslar](./sahislar.md)
+- 🕸️ [Politika](./politik.md)
+- 🐔 [Viral](./viral.md)
+- 🐍 [Küfürler +18](./kufur.md)
+
+
 
 
