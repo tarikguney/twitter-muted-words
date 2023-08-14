@@ -1,4 +1,4 @@
-# Muted Words
+# Twitter Muted Words
 
 Herkesin katkı sağlayabilmesi için buraya ekliyorum. Ama orijinal liste, aşağıdaki adresten alınmıştır: https://getupnote.com/share/notes/Q0NgfAP7GcSE4Kp7wo57wqjJwcl1/e4f4dcc2-919e-433a-af26-3c3501c4a4c4
 
